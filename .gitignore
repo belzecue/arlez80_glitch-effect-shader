@@ -1,0 +1,6 @@
+.dropbox.attr
+Thumbs.db
+.import/*
+*.import
+Test.tscn
+ice.jpg
